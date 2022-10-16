@@ -62,7 +62,7 @@ alt="SwiftUI Bootcamp (Beginner Level)" align="right" width="300" border="10" />
 ###
 
 11) [Adding `Padding`](https://www.youtube.com/watch?v=MuOtLPQ4jR4&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=12&ab_channel=SwiftfulThinking)
-    <a href="SwiftfulThinkingBootcamp/PaddeingAndSpacerBootcamp.swift" target="_blank"><img src="code.svg" align="right">
+    <a href="SwiftfulThinkingBootcamp/PaddingAndSpacerBootcamp.swift" target="_blank"><img src="code.svg" align="right">
     </a>
 
 ###
